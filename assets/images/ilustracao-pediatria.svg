@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title description">
+  <title id="title">Ursinho com estetoscópio</title>
+  <desc id="description">Ilustração em tons suaves de um ursinho simpático usando um estetoscópio com um coração na ponta.</desc>
+  <circle cx="210" cy="210" r="184" fill="#f7e5e5"/>
+  <circle cx="210" cy="210" r="158" fill="#fff7f3"/>
+  <path d="M81 322c18-58 63-89 129-89s111 31 129 89v40H81v-40Z" fill="#d99aa8"/>
+  <path d="M116 321c18-43 49-64 94-64s76 21 94 64v41H116v-41Z" fill="#e9b7bf"/>
+  <path d="M150 123c-30-30-75-11-71 30 3 28 31 44 61 34m130-64c30-30 75-11 71 30-3 28-31 44-61 34" fill="#b98171"/>
+  <path d="M88 151c-2-25 17-39 38-25l21 24m185 1c2-25-17-39-38-25l-21 24" fill="#efc7b8"/>
+  <path d="M124 170c0-68 34-112 86-112s86 44 86 112c0 64-35 111-86 111s-86-47-86-111Z" fill="#c99583"/>
+  <path d="M141 169c0-54 27-89 69-89s69 35 69 89c0 53-28 91-69 91s-69-38-69-91Z" fill="#f1cbb9"/>
+  <ellipse cx="176" cy="170" rx="6" ry="8" fill="#59454a"/><ellipse cx="244" cy="170" rx="6" ry="8" fill="#59454a"/>
+  <ellipse cx="155" cy="190" rx="15" ry="8" fill="#e9a5a7" opacity=".65"/><ellipse cx="265" cy="190" rx="15" ry="8" fill="#e9a5a7" opacity=".65"/>
+  <path d="M199 190c6-7 16-7 22 0-2 10-7 14-11 14s-9-4-11-14Z" fill="#a96c70"/>
+  <path d="M210 205c-5 9-14 12-22 7m22-7c5 9 14 12 22 7" fill="none" stroke="#80545a" stroke-linecap="round" stroke-width="4"/>
+  <path d="M161 273c13 20 30 30 49 30s36-10 49-30" fill="none" stroke="#f7e9df" stroke-linecap="round" stroke-width="9"/>
+  <path d="M160 277v22c0 24 19 43 43 43h14c24 0 43-19 43-43v-22" fill="none" stroke="#f7e9df" stroke-linecap="round" stroke-width="8"/>
+  <path d="M260 309c0 10 8 18 18 18s18-8 18-18-8-18-18-18-18 8-18 18Z" fill="#f7e9df"/>
+  <path d="M278 306c-8-8-19 3 0 15 19-12 8-23 0-15Z" fill="#d68c9a"/>
+  <path d="M101 108c7-21 26-31 44-24-9 18-25 27-44 24Zm234 27c8-17 26-23 41-15-11 15-26 20-41 15ZM72 255c3-14 15-22 28-18-4 14-15 22-28 18Z" fill="#d7a8a2"/>
+  <path d="m115 76 8-18m-18 9 18 9m192 217 6-14m-13 6 14 7" stroke="#bd8290" stroke-linecap="round" stroke-width="4"/>
+  <path d="M333 80v23m-11-11h23" stroke="#d19aa5" stroke-linecap="round" stroke-width="4"/>
+</svg>
